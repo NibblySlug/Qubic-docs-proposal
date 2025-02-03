@@ -3,7 +3,7 @@ Proposal docs for Quibic
 
 ## The current state of Qubic documentation: 
 There is an existing repository of Qubic Documentation, that may be of limited use to users.
-As a result, Qubic risks alienating users, who cannot access information allowing them to use the product. Gaps include: 
+As a result, Qubic risks alienating users, who cannot access information allowing them to use the product. A quick review of the existing documentation reveals several gaps, including: 
 
 * Missing Tutorials - the Qubic Tutorial page is not readily available in the navigation bar and key tutorials are missing `[INSERT WHAT IS MISSING HERE]`
 
@@ -13,14 +13,12 @@ As a result, Qubic risks alienating users, who cannot access information allowin
 
 * Broken links
 
-* 
+A more thorough review will be done as part of this proposal, which will likely reveal further gaps that will also need addressing. 
 
 
 ## Objectives of the Rewrite
 Qubic and its quorum-based computing software represent an innovative step in decentralised technology and finance.
 The technology will require thorough and accurate documentation, in order to ensure users are able to engage with the product comfortably and securely. Current documentation exists, but lacks key information. By rewriting parts and editing others, Qubic documentation will be brought up to date, improving overall user friendliness and aiding developers in using Qubic tools.
-
-
 
 
 ## Milestones 
@@ -34,7 +32,7 @@ Stage 2: Major Edits - A full edit will be done for each page of documentation, 
 Stage 3: Testing - `[I need more info re: what we plan to do here]`
 
 
-## Estimated Time Needed and Deliverables
+## Estimated Time Needed, Expenses and Deliverables
 
 Stage 1 - With around 80 pages of review, at 30 minutes of review per page (40 hours). Major rewrites will be more intensive at around three hours per page. Assuming one-third (27) of pages will need rewrites, this will be around 80 hours. 
 
@@ -43,3 +41,4 @@ Stage 2 - With one hour of edits for pages that did not need a rewrite (50 hours
 Stage 3 - API checks, installing and running Qubic Software - approx. 15 hours. 
 
 Total - 195 hours
+Budget: £19,500 GBP (approx. $24,000 USD)
