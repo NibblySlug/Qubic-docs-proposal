@@ -1,17 +1,24 @@
 # qubic-docs-proposal
 Proposal docs for Quibic
 
-## Objectives of the Rewrite
-Qubic and its quorum-based computing software represent an innovative step in decentralised technology and finance.
-The technology will require thorough and accurate documentation, in order to ensure users are able to engage with the product comfortably and securely. 
-
 ## The current state of Qubic documentation: 
 There is an existing repository of Qubic Documentation, that may be of limited use to users.
 As a result, Qubic risks alienating users, who cannot access information allowing them to use the product. Gaps include: 
 
 * Missing Tutorials - the Qubic Tutorial page is not readily available in the navigation bar and key tutorials are missing `[INSERT WHAT IS MISSING HERE]`
 
-* Missing general information - parts of the 'Core Concepts' pages are missing, including formatting, signatures and other instructions. 
+* Missing general information - for example, parts of the 'Core Concepts' pages are missing, including formatting, signatures and other instructions. Similar gaps are found throughout the documentation
+
+* Inconsistent information and language in parts
+
+* Broken links
+
+* 
+
+
+## Objectives of the Rewrite
+Qubic and its quorum-based computing software represent an innovative step in decentralised technology and finance.
+The technology will require thorough and accurate documentation, in order to ensure users are able to engage with the product comfortably and securely. Current documentation exists, but lacks key information. By rewriting parts and editing others, Qubic documentation will be brought up to date, improving overall user friendliness and aiding developers in using Qubic tools.
 
 
 
@@ -27,7 +34,7 @@ Stage 2: Major Edits - A full edit will be done for each page of documentation, 
 Stage 3: Testing - `[I need more info re: what we plan to do here]`
 
 
-## Estimated Time Needed
+## Estimated Time Needed and Deliverables
 
 Stage 1 - With around 80 pages of review, at 30 minutes of review per page (40 hours). Major rewrites will be more intensive at around three hours per page. Assuming one-third (27) of pages will need rewrites, this will be around 80 hours. 
 
