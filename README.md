@@ -40,5 +40,11 @@ Stage 2 - With one hour of edits for pages that did not need a rewrite (50 hours
 
 Stage 3 - API checks, installing and running Qubic Software - approx. 15 hours. 
 
+Proposed payment schedule: 
+
+30% of funds at the launch of Stage 1
+30% of funds at the completion of Stage 2
+40% of funds at the completion of Stage 3
+
 Total - 195 hours
 Budget: £19,500 GBP (approx. $24,000 USD)
